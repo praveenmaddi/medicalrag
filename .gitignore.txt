@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Dataset
+data/*.csv
+data/*.json
+
+# Vector database
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
