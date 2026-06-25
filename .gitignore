@@ -1,0 +1,13 @@
+# MedQuAD dataset
+data/raw/
+data/*.csv
+
+# Vector database
+vectorstore/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
